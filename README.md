@@ -1,7 +1,8 @@
 # FlipView
 Android 模仿FlipBoard中FlipView 的两种实现
 
-#reference:
+# Reference:
+
 1, [android-FlipView](https://github.com/emilsjolander/android-FlipView)
 
 ![](images/FlipView01.gif)
